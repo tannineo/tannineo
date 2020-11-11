@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a MSc student studying in Dublin, Ireland.
+I am a MSc student in Dublin, Ireland.
 
-Open to work!
+I just finished my master course. Open to work!
 
 <!--
 **tannineo/tannineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
