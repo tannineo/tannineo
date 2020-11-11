@@ -2,9 +2,7 @@
 
 I am a MSc student studying in Dublin, Ireland.
 
-I am currently working on my dissertation.
-
-Hope everything will be alright... d(´ཀ`」 ∠)_
+Open to work!
 
 <!--
 **tannineo/tannineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
