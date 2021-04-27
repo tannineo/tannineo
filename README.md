@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a MSc student in Dublin, Ireland.
+I am an software developer based in Dublin, Ireland.
 
-I just finished my master course. Open to work!
+Working with Elixir, also like TS/JS and Golang.
+
+Adapting new life in Dublin at the moment...
 
 <!--
 **tannineo/tannineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
