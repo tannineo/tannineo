@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an software developer based in Dublin, Ireland.
+I am a software developer based in Dublin, Ireland.
 
 Working with Elixir, also like TS/JS and Golang.
 
