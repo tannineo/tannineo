@@ -2,7 +2,7 @@
 
 I am a software developer based in Dublin, Ireland.
 
-Working with Elixir, also like TS/JS and Golang.
+Working with ts/js fullstack and elixir, also like golang.
 
 Adapting new life in Dublin at the moment...
 
