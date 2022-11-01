@@ -2,9 +2,9 @@
 
 I am a software developer based in Dublin, Ireland.
 
-Working with ts/js fullstack and elixir, also like golang.
+Working with ts/js fullstack and elixir, also like golang/rust.
 
-Adapting new life in Dublin at the moment...
+Seeking some personal breakthrough...
 
 <!--
 **tannineo/tannineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
